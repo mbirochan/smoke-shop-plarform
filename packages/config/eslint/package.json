@@ -1,0 +1,13 @@
+{
+  "name": "@smoke-shop/eslint-config",
+  "version": "0.0.0",
+  "private": true,
+  "license": "MIT",
+  "main": "./index.js",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "8.19.1",
+    "@typescript-eslint/parser": "8.19.1",
+    "eslint-config-next": "15.1.6",
+    "eslint-plugin-drizzle": "0.2.3"
+  }
+}
